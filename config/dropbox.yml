@@ -3,4 +3,4 @@ app_secret: <%= ENV["APP_SECRET"] %>
 access_token: "h3jq0dihxpwscipq"
 access_token_secret: <%= ENV["ACCESS_TOKEN_SECRET"] %>
 user_id: "442616617"
-access_type: "app_folder"
+access_type: "app_folder
